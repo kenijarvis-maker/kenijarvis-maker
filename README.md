@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey! 👋 I'm kenijarvis-maker
 
-<!--
-**kenijarvis-maker/kenijarvis-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maker yang suka bikin tools dan aplikasi. Iron Man's Jarvis adalah inspirasi saya!
 
-Here are some ideas to get you started:
+## 🔧 Maker Spirit
+- Build useful tools
+- Automate everything
+- Make life easier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Projects
+Selalu ada proyek baru yang dikerjakan.
+
+*"If you can dream it, you can code it!"* 🤖
